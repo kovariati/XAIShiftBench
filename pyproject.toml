@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xaishiftbench"
+version = "1.0.0"
+description = "Benchmark infrastructure for matched-null-adjusted signed SHAP attribution-composition shift under tabular distribution shift"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.0",
+  "scipy>=1.11",
+  "scikit-learn>=1.4",
+  "PyYAML>=6.0",
+  "lightgbm>=4.0",
+  "shap>=0.45",
+  "matplotlib>=3.8",
+  "statsmodels>=0.14"
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

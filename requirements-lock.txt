@@ -1,0 +1,14 @@
+coverage==7.13.3
+joblib==1.5.3
+lightgbm==4.6.0
+llvmlite==0.47.0
+matplotlib==3.10.8
+numba==0.65.1
+numpy==2.3.5
+pandas==2.2.3
+pytest==9.0.2
+scikit-learn==1.8.0
+scipy==1.17.0
+shap==0.50.0
+statsmodels==0.14.6
+threadpoolctl==3.6.0

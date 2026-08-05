@@ -1,0 +1,1 @@
+921fdae321892628147363b74d675d0f9b2fc940e8989064a771b693622313b6  data/south_german_credit/raw/SouthGermanCredit.asc

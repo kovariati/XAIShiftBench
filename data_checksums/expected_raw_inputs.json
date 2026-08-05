@@ -1,0 +1,32 @@
+{
+  "local_files": {
+    "data/heart_disease/raw/processed.cleveland.data": "a74b7efa387bc9d108d7d0115d831fe9b414b29ae7124f331b622b4efa0427c8",
+    "data/heart_disease/raw/processed.hungarian.data": "d1ad108f785768cd3d7e82dc522e6f5a61eea93cccfb3a46ee8076f73fc3d796",
+    "data/heart_disease/raw/processed.switzerland.data": "834a405ccf5b66ab4056bb77794adc8df0b7125186454c0a1d002d33c6c3b314",
+    "data/heart_disease/raw/processed.va.data": "e7c93d8d0d2acdadfa4c5e8de768e2191e7f618b952e29623f1f0d5949ff6b8f",
+    "data/student_performance/raw/data.csv": "5be7b02f13f5800fddd66e2c8d834cd00ece14c552fb404def2397b31b63236b",
+    "data/south_german_credit/raw/SouthGermanCredit.asc": "921fdae321892628147363b74d675d0f9b2fc940e8989064a771b693622313b6"
+  },
+  "external_archives": {
+    "oulad_zip": {
+      "suggested_filename": "open university learning analytics dataset.zip",
+      "sha256": "f2ed1902616c1fe8d2824d872c0b7d2d72be435bf0124d077044fe4be2c6d3e4"
+    },
+    "acs_2018_a": {
+      "suggested_filename": "psam_pusa_2018.zip",
+      "sha256": "2fe0a52a4b57b69d470070a9429c70147a14ce7c7ccbd70857b3c0cc2a5c5761"
+    },
+    "acs_2018_b": {
+      "suggested_filename": "psam_pusb_2018.zip",
+      "sha256": "aba526ade5906781a758827def95067e4901f62ccb109df46fb7ec2c38f40f96"
+    },
+    "acs_2024_a": {
+      "suggested_filename": "psam_pusa_2024.zip",
+      "sha256": "2b9adeda8b71c870b876102d1c2c9d61e1d91911dbf908f21e180650aafb29ab"
+    },
+    "acs_2024_b": {
+      "suggested_filename": "psam_pusb_2024.zip",
+      "sha256": "64ec877ee0c149d56536e7ea098f3948d411887abaa55e88f0003ed867747f3f"
+    }
+  }
+}
