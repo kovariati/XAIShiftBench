@@ -86,6 +86,7 @@ Software citation:
   title   = {XAIShiftBench},
   year    = {2026},
   version = {1.0.0}
+  url     = {https://github.com/kovariati/XAIShiftBench}
 }
 ```
 
